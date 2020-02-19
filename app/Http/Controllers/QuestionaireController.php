@@ -34,3 +34,5 @@ class QuestionaireController extends Controller
         return view('questionaire.show', compact('questionaire'));
     }
 }
+
+
